@@ -1,0 +1,66 @@
+.wrap {
+	width: 1000px;
+	height: 1000px;
+	background-color: #eee;
+	border:10px solid #000;
+	border-radius: 50px;
+}
+
+img{
+height: 100%;
+
+}
+.rot{
+	transform: rotate(180deg);
+}
+.size{
+		font-size: 40px;
+		text-align: center;
+line-height:100px;
+	width: 100px;
+	height: 100px;
+}
+.black{border:1px solid #000;
+background-color: black;
+}
+.white{border:1px solid #000;
+background-color: white;
+}
+
+.coll_1{
+	margin-left:100px; 
+	margin-top:  -1010px;
+}
+.coll_2{
+	margin-left:200px; 
+	margin-top:  -1017px;
+}
+.coll_3{
+	margin-left:300px; 
+	margin-top:  -1016px;
+}
+.coll_4{
+	margin-left:400px; 
+	margin-top:  -1016px;
+}
+.coll_5{
+	margin-left:500px; 
+	margin-top:  -1016px;
+}
+.coll_6{
+	margin-left:600px; 
+	margin-top:  -1016px;
+}
+.coll_7{
+	margin-left:700px; 
+	margin-top:  -1016px;
+}
+.coll_8{
+	margin-left:800px; 
+	margin-top:  -1016px;
+}
+.coll_9{
+	
+	margin-left:900px; 
+	margin-top:  -1016px;
+}
